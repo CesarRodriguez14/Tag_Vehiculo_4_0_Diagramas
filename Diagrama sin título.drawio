@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Página-1" id="RtHD7aoakG6yR8nzAqxL">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-3" value="BLE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-7" value="LTE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-9" value="WIFI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-11" value="GPIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-13" value="HDMI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BA8jbge-qnIZSc5oDuw1-16" value="DB MARIA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
