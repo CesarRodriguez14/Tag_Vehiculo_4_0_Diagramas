@@ -32,7 +32,7 @@
           <mxGeometry x="1570" y="570" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="DGj47FIJMWD73nGuXl74-36" value="&lt;b&gt;Note:&lt;/b&gt;&lt;div&gt;BeaconLocate.db and BLE.db are two databases managed by sqlite3, they&#39;re located in the sdcard. db_lasec is a database managed by mariadb, it&#39;s located in /data/mysql.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="140" width="240" height="90" as="geometry" />
+          <mxGeometry x="2098" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
