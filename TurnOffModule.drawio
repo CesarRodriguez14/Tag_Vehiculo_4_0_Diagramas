@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="1949" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,22 +16,22 @@
         <mxCell id="24f968d109e7d6b4-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="500" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-1" value="Detectar conexión de fuente externa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-1" value="Detectar conexión de fuente externa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="430" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-3" value="estado_global := DTC_E0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-3" value="estado_global := DTC_E0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="105" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-4" value="Detectar desconexión de fuente externa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-4" value="Detectar desconexión de fuente externa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-7" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="382b91b5511bd0f7-6" target="rniwRAkn4TTbXeauMenW-4">
+        <mxCell id="rniwRAkn4TTbXeauMenW-7" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="382b91b5511bd0f7-6" target="rniwRAkn4TTbXeauMenW-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="155" as="sourcePoint" />
             <mxPoint x="450" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.508;exitY=1.043;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="382b91b5511bd0f7-6" target="rniwRAkn4TTbXeauMenW-1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.508;exitY=1.043;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="382b91b5511bd0f7-6" target="rniwRAkn4TTbXeauMenW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="190" as="sourcePoint" />
             <mxPoint x="450" y="190" as="targetPoint" />
@@ -40,13 +40,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-10" value="Detección de carga; estado_global:= DTC_CON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-10" value="Detección de carga; estado_global:= DTC_DES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="110" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-11" value="Sin detección de desconexión; estado_global:= DTC_CON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-11" value="Sin detección de desconexión; estado_global:= DTC_DES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-12" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.01;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-12" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.01;entryY=0.538;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="118.86" as="sourcePoint" />
             <mxPoint x="721.2" y="151.14000000000004" as="targetPoint" />
@@ -55,10 +55,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-13" value="Detección de descarga; estado_global:= DTC_DES,&lt;div&gt;matar procesos de TV4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-13" value="Detección de descarga; estado_global:= DTC_CON,&lt;div&gt;matar procesos de TV4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="270" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-14" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rniwRAkn4TTbXeauMenW-4" target="rniwRAkn4TTbXeauMenW-1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-14" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rniwRAkn4TTbXeauMenW-4" target="rniwRAkn4TTbXeauMenW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="200" as="sourcePoint" />
             <mxPoint x="901.2" y="232.28000000000003" as="targetPoint" />
@@ -67,10 +67,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-15" value="Detección de desconexión; estado_global:= DTC_DES,&lt;div&gt;matar procesos de TV4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-15" value="Detección de desconexión; estado_global:= DTC_CON,&lt;div&gt;matar procesos de TV4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="270" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-16" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="rniwRAkn4TTbXeauMenW-1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-16" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="rniwRAkn4TTbXeauMenW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="380" as="sourcePoint" />
             <mxPoint x="541.2" y="412.28000000000003" as="targetPoint" />
@@ -81,13 +81,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-17" value="Sin detección de conexión &amp;amp;&amp;amp; v_filtrado_k &amp;gt;= 3.3 V; estado_global:= DTC_DES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-17" value="Sin detección de conexión &amp;amp;&amp;amp; v_filtrado_k &amp;gt;= 3.3 V; estado_global:= DTC_CON" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="270" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="570" y="500" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-20" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rniwRAkn4TTbXeauMenW-1" target="24f968d109e7d6b4-3">
+        <mxCell id="rniwRAkn4TTbXeauMenW-20" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rniwRAkn4TTbXeauMenW-1" target="24f968d109e7d6b4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="510" as="sourcePoint" />
             <mxPoint x="609" y="737" as="targetPoint" />
@@ -96,10 +96,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-22" value="Detección de conexión;&lt;div&gt;estado_global:= REBOOT,&lt;/div&gt;&lt;div&gt;reboot de módulo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-22" value="Detección de conexión;&lt;div&gt;estado_global:= REBOOT,&lt;/div&gt;&lt;div&gt;reboot de módulo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="450" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-24" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rniwRAkn4TTbXeauMenW-1" target="rniwRAkn4TTbXeauMenW-18">
+        <mxCell id="rniwRAkn4TTbXeauMenW-24" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rniwRAkn4TTbXeauMenW-1" target="rniwRAkn4TTbXeauMenW-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="370" as="sourcePoint" />
             <mxPoint x="760" y="445" as="targetPoint" />
@@ -108,22 +108,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-25" value="v_filtrado_k &amp;lt; 3.3 V;&lt;div&gt;estado_global:= SHTDWN,&lt;/div&gt;&lt;div&gt;apagado de módulo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-25" value="v_filtrado_k &amp;lt; 3.3 V;&lt;div&gt;estado_global:= SHTDWN,&lt;/div&gt;&lt;div&gt;apagado de módulo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="450" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Funciones de detección&lt;/h1&gt;&lt;p&gt;Las funciones de detección se basan en un filtrado de las muestras de los valores de voltaje medidas en el pin VBAT del módulo. Para aplicar las funciones de detección, se almacenan el valor actual y los 4 anteriores de VBAT y el valor actual y los 14 valores anteriores de v_filtrado.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detectar estado inicial.&lt;/b&gt;&amp;nbsp;Se promedian los valores V_BAT_15,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_16,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_17,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_18 y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_19. Si V_BAT_promedio está entre 3.92 y 3.98 V, entonces se considera una &lt;b&gt;Detección de carga&lt;/b&gt;, sino, una &lt;b&gt;Detección de descarga&lt;/b&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detectar de desconexión de fuente externa&lt;/b&gt;. Se compara el valor v_filtrado_k * 1.005 con los valores anteriores. Si existen al menos 5 valores superiores a v_filtrado_k * 1.005 y v_filtrado_k &amp;lt; 3.3V, entonces se considera una &lt;b&gt;Detección de desconexión.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detectar conexión de fuente externa. &lt;/b&gt;Si el valor actual y los últimos 4 de VBAT se encuentran en el rango entre 3.92 y 3.98V, se considera Detección de conexión.&lt;/p&gt;&lt;p&gt;La actualización de estados, el muestreo de VBAT y el cálculo de v_filtrado_k se realiza cada segundo. La actualización del estado actual se almacena en la base de datos /etc/init.d/ExtVoltage.db.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Funciones de detección&lt;/h1&gt;&lt;p&gt;Las funciones de detección se basan en un filtrado de las muestras de los valores de voltaje medidas en el pin VBAT del módulo. Para aplicar las funciones de detección, se almacenan el valor actual y los 4 anteriores de VBAT y el valor actual y los 14 valores anteriores de v_filtrado.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detectar estado inicial.&lt;/b&gt;&amp;nbsp;Se promedian los valores V_BAT_15,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_16,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_17,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_18 y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;V_BAT_19. Si V_BAT_promedio está entre 3.92 y 3.98 V, entonces se considera una &lt;b&gt;Detección de carga&lt;/b&gt;, sino, una &lt;b&gt;Detección de descarga&lt;/b&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detectar de desconexión de fuente externa&lt;/b&gt;. Se compara el valor v_filtrado_k * 1.005 con los valores anteriores. Si existen al menos 5 valores superiores a v_filtrado_k * 1.005 y v_filtrado_k &amp;lt; 3.3V, entonces se considera una &lt;b&gt;Detección de desconexión.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Detectar conexión de fuente externa. &lt;/b&gt;Si el valor actual y los últimos 4 de VBAT se encuentran en el rango entre 3.92 y 3.98V, se considera Detección de conexión.&lt;/p&gt;&lt;p&gt;La actualización de estados, el muestreo de VBAT y el cálculo de v_filtrado_k se realiza cada segundo. La actualización del estado actual se almacena en la base de datos /etc/init.d/ExtVoltage.db.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="76" y="550" width="720" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-28" value="Filtro de Kalman" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-28" value="Filtro de Kalman" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="866" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-30" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-30" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="806" y="669.62" as="sourcePoint" />
             <mxPoint x="866" y="669.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-31" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-31" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="986" y="669.62" as="sourcePoint" />
             <mxPoint x="1046" y="669.62" as="targetPoint" />
@@ -133,11 +133,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-32" value="VBAT_k" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-32" value="VBAT_k" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="796" y="640" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rniwRAkn4TTbXeauMenW-33" value="v_filtrado_k" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rniwRAkn4TTbXeauMenW-33" value="v_filtrado_k" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="981" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ktJIrFalUcWvJaHLv5J-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Estado&lt;/h1&gt;&lt;p&gt;DTC_E0 := 0&lt;/p&gt;&lt;p&gt;DTC_CON := 1&lt;/p&gt;&lt;p&gt;DTC_DES := 2&lt;/p&gt;&lt;p&gt;REBOOT := 3&lt;/p&gt;&lt;p&gt;SHTDWN := 4&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="200" width="110" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
