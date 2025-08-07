@@ -75,46 +75,52 @@
             <mxPoint x="770" y="333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-6" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-b5_aeEiTCpsvocbng9k-6" target="rV2Ys3GXxWUU0AGFriuB-1">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-6" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-6" target="rV2Ys3GXxWUU0AGFriuB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="402" as="sourcePoint" />
             <mxPoint x="520" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-8" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.902;exitY=0.525;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="382b91b5511bd0f7-1" target="-b5_aeEiTCpsvocbng9k-2">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-8" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.902;exitY=0.525;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="382b91b5511bd0f7-1" target="-b5_aeEiTCpsvocbng9k-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179.39" y="220" as="sourcePoint" />
             <mxPoint x="179.39" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-b5_aeEiTCpsvocbng9k-2" target="382b91b5511bd0f7-6">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-2" target="382b91b5511bd0f7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="246.5" y="347" as="sourcePoint" />
             <mxPoint x="246.5" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-10" value="Fill myGPIOSOut[] with every row of GPIO_state_table where Direction=1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#FF0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-10" value="Fill myGPIOSOut[] with every row of GPIO_state_table where Direction=1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#FF0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="74" y="450" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-11" value="Fill myGPIOSIn[] with every row of GPIO_state_table where Direction=0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#FF0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-11" value="Fill myGPIOSIn[] with every row of GPIO_state_table where Direction=0" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#FF0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="74" y="570" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-12" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.483;exitY=0.996;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="382b91b5511bd0f7-6" target="FOoScroTNqUPBx7kzsJf-10">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-12" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.483;exitY=0.996;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="382b91b5511bd0f7-6" target="FOoScroTNqUPBx7kzsJf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="178.86" y="430" as="sourcePoint" />
             <mxPoint x="178.86" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-13" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOoScroTNqUPBx7kzsJf-10" target="FOoScroTNqUPBx7kzsJf-11">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-13" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FOoScroTNqUPBx7kzsJf-10" target="FOoScroTNqUPBx7kzsJf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="178" y="540" as="sourcePoint" />
             <mxPoint x="178" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOoScroTNqUPBx7kzsJf-14" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOoScroTNqUPBx7kzsJf-11" target="-b5_aeEiTCpsvocbng9k-6">
+        <mxCell id="FOoScroTNqUPBx7kzsJf-14" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FOoScroTNqUPBx7kzsJf-11" target="-b5_aeEiTCpsvocbng9k-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="587.5" y="340" as="sourcePoint" />
             <mxPoint x="587.5" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="179" y="660" />
+              <mxPoint x="385" y="660" />
+              <mxPoint x="385" y="180" />
+              <mxPoint x="653" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
