@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,8 +139,11 @@
         <mxCell id="rniwRAkn4TTbXeauMenW-33" value="v_filtrado_k" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="981" y="640" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ktJIrFalUcWvJaHLv5J-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Estado&lt;/h1&gt;&lt;p&gt;DTC_E0 := 0&lt;/p&gt;&lt;p&gt;DTC_CON := 1&lt;/p&gt;&lt;p&gt;DTC_DES := 2&lt;/p&gt;&lt;p&gt;REBOOT := 3&lt;/p&gt;&lt;p&gt;SHTDWN := 4&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-ktJIrFalUcWvJaHLv5J-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Estado&lt;/h1&gt;&lt;p&gt;DTC_E0 := 0&lt;/p&gt;&lt;p&gt;DTC_CON := 1&lt;/p&gt;&lt;p&gt;DTC_DES := 2&lt;/p&gt;&lt;p&gt;REBOOT := 3&lt;/p&gt;&lt;p&gt;SHTDWN := 4&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="200" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BQMHnPqkqkYQ4VqijNL8-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;turnoffmodule.cpp&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
