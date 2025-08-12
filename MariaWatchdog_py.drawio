@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
+  <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
+    <mxGraphModel dx="1134" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="382b91b5511bd0f7-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="538" y="53" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="382b91b5511bd0f7-6" value="Connect to database db_lasec" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#FF0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="493" y="124" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2a3bc250acf0617d-9" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;" parent="1" source="382b91b5511bd0f7-1" target="382b91b5511bd0f7-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3cde6dad864a17aa-7" style="edgeStyle=elbowEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.5;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-15" target="-b5_aeEiTCpsvocbng9k-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740.4444444444443" y="278" as="sourcePoint" />
+            <mxPoint x="740" y="153" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24f968d109e7d6b4-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="856" y="453" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cde6dad864a17aa-12" style="edgeStyle=elbowEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-18" target="24f968d109e7d6b4-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="955" y="813.0000000000002" as="sourcePoint" />
+            <mxPoint x="840" y="423" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-2" value="Create file MariaWatchdog_L4_py.pid" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="442" y="224" width="222" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-3" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="-b5_aeEiTCpsvocbng9k-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552.7" y="184" as="sourcePoint" />
+            <mxPoint x="552.7" y="234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-6" value="Does&amp;nbsp;&lt;span style=&quot;font-family: Verdana;&quot;&gt;ConnectionMonitorWIFI_L4_py&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;.pid&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;exist ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="386" y="318" width="333" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-7" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-2" target="-b5_aeEiTCpsvocbng9k-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552.61" y="304" as="sourcePoint" />
+            <mxPoint x="553" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-11" value="Delete register on db_lasec.MariaDB_state_table" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="456.5" y="560" width="193" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-15" value="sleep(10)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="497.5" y="780" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-17" style="edgeStyle=elbowEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-11" target="HqLHzUmemBixosrZDxwC-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="598" as="sourcePoint" />
+            <mxPoint x="551" y="628" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-18" value="Close connection to db_lasec" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="776" y="348.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-21" style="edgeStyle=elbowEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" parent="1" source="-b5_aeEiTCpsvocbng9k-6" target="-b5_aeEiTCpsvocbng9k-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="433" as="sourcePoint" />
+            <mxPoint x="600" y="462" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-b5_aeEiTCpsvocbng9k-21" vertex="1" connectable="0">
+          <mxGeometry x="0.1729" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-b5_aeEiTCpsvocbng9k-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MariaWatchdog.py&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rV2Ys3GXxWUU0AGFriuB-1" value="Get status of mysqld service and save it in ln_status" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="481" y="470" width="144" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rV2Ys3GXxWUU0AGFriuB-2" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-6" target="rV2Ys3GXxWUU0AGFriuB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="270" as="sourcePoint" />
+            <mxPoint x="760" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rV2Ys3GXxWUU0AGFriuB-3" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rV2Ys3GXxWUU0AGFriuB-1" target="-b5_aeEiTCpsvocbng9k-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="570" as="sourcePoint" />
+            <mxPoint x="670" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HqLHzUmemBixosrZDxwC-1" value="Insert register on db_lasec.MariaDB_state_table with:&lt;div&gt;UpdateTime := current time&lt;/div&gt;&lt;div&gt;State := ln_status&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="448" y="650" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HqLHzUmemBixosrZDxwC-2" style="edgeStyle=elbowEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HqLHzUmemBixosrZDxwC-1" target="-b5_aeEiTCpsvocbng9k-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="600" as="sourcePoint" />
+            <mxPoint x="710" y="630" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
