@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,21 +81,16 @@
         <mxCell id="-b5_aeEiTCpsvocbng9k-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ConnectionMonitorWIFI.py&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rV2Ys3GXxWUU0AGFriuB-1" value="Get State, IP, MAC and BSSID from wpa_cli" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="rV2Ys3GXxWUU0AGFriuB-1" value="Get State, IP, MAC and BSSID from wpa_cli" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="446" y="470" width="212" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rV2Ys3GXxWUU0AGFriuB-2" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-b5_aeEiTCpsvocbng9k-6" target="rV2Ys3GXxWUU0AGFriuB-1" edge="1">
+        <mxCell id="rV2Ys3GXxWUU0AGFriuB-2" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-b5_aeEiTCpsvocbng9k-6" target="rV2Ys3GXxWUU0AGFriuB-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="270" as="sourcePoint" />
             <mxPoint x="760" y="304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMSVqSgCCBIcAM-A8AxA-1" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rV2Ys3GXxWUU0AGFriuB-2">
-          <mxGeometry x="-0.619" y="2" relative="1" as="geometry">
-            <mxPoint x="14" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rV2Ys3GXxWUU0AGFriuB-3" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rV2Ys3GXxWUU0AGFriuB-1" target="-b5_aeEiTCpsvocbng9k-11" edge="1">
+        <mxCell id="rV2Ys3GXxWUU0AGFriuB-3" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Verdana;fontSize=12;align=left;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rV2Ys3GXxWUU0AGFriuB-1" target="-b5_aeEiTCpsvocbng9k-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="570" as="sourcePoint" />
             <mxPoint x="670" y="441" as="targetPoint" />
