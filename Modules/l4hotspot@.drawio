@@ -1,0 +1,16 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
+    <mxGraphModel dx="2232" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-b5_aeEiTCpsvocbng9k-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;l4hotspot@&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIJkh6NOwfTacr2ShAW2-2" value="This service creates a hotspot through p2p0 Wi-Fi interface and allows to interchange packets to the interface passed as parameter. This interface could be wlan0 (Wi-Fi interface) or rmnet_data0 (LTE interface). Clients are connected to p2p0, these can communicate to devices connected to wlan0 or rmnet_data0. And the devices connected to wlan0 or rmnet_data0 can only send packets to p2p0 devices as answers to its queries." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="345" width="360" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

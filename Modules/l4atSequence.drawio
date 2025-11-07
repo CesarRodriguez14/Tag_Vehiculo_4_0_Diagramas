@@ -1,0 +1,16 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
+    <mxGraphModel dx="1674" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-b5_aeEiTCpsvocbng9k-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;l4atSequence&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIJkh6NOwfTacr2ShAW2-2" value="This service starts looking if init_data.ini lte configuration is present in network_manager.ini, if it does not, the network_manager.ini is updated with lte configuration (operator, apn,pdp_type) and reboots the module.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If lte configuration is present in network_manager.ini, the service checks if the module is connected to the desired LTE network and if the rmnet_data0 has an IP address set. If it does, the module sleeps for 30 seconds to check again.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If it does not, it tries to connect manually (at+cgdcont=pdp_context; at+cgact=1,1; at+cops=1,2,&quot;334xxx&quot;,7) and resets only the modem (at+qcfg=&#39;reset&#39;)., after 5 modem resets, the module is rebooted.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="345" width="380" height="285" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
